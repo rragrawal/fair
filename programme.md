@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fostering AI Research (AI) programme
-description: April 30, 2020
+description: March 13, 2023 at UoBD
 ---
 
 ### General Information
