@@ -1,0 +1,34 @@
+groups:
+  - name: Invited talks
+    esrs:
+    - name: Dr Mohammad Yaqub
+      photo: yaqub.jpeg
+      id: yaqub
+      code: esr1
+      topic: AI in Radiology: Research, Challenges and the Future
+      website: https://mbzuai.ac.ae/study/faculty/mohammad-yaqub/
+
+    - name: Dr Emre Simsekler
+      photo: simsekler.jpg
+      id: simsekler
+      code: esr2
+
+      topic: Leveraging AI for safer patient care
+      website: https://www.ku.ac.ae/college-people/mecit-can-emre-simsekler
+
+    - name: Dr Jagath Samarabandu
+      photo: jagath.jpg
+      id: samarabandu
+      code: esr3
+
+      topic: Explainable AI: Peeking inside the blackbox
+      website: https://www.eng.uwo.ca/electrical/faculty/samarabandu_j/index.html
+
+    - name: Dr Muhammad Shafique
+      photo: shafique.jpg
+      id: shafique
+      code: esr4
+
+      topic: TBC
+      website: https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/muhammad-shafique.html
+
