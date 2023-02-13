@@ -12,7 +12,6 @@ groups:
       photo: simsekler.jpg
       id: simsekler
       code: esr2
-
       topic: Leveraging AI for safer patient care
       website: https://www.ku.ac.ae/college-people/mecit-can-emre-simsekler
 
@@ -20,7 +19,6 @@ groups:
       photo: jagath.jpg
       id: samarabandu
       code: esr3
-
       topic: Explainable AI: Peeking inside the blackbox
       website: https://www.eng.uwo.ca/electrical/faculty/samarabandu_j/index.html
 
@@ -28,7 +26,6 @@ groups:
       photo: shafique.jpg
       id: shafique
       code: esr4
-
       topic: TBC
       website: https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/muhammad-shafique.html
 
