@@ -31,17 +31,6 @@ width: 12
             {{ esr.topic }}
           {% endif %}
         </div>
-    		<div>
-          <em>Supervisor:
-          {% for supervisor in esr.supervisors %}
-            {% if supervisor.web %}
-              <a href="{{ supervisor.web }}">{{ supervisor.name }}</a> 
-            {% else %}
-              {{ supervisor.name }}
-            {% endif %}
-          {% endfor %}
-          </em>
-        </div>
 
         {% if esr.logo %}
           {{ esr.logo }}
