@@ -4,7 +4,7 @@ show-avatar: false
 title: Fostering AI Research (FAIR)
 subtitle: University of Birmingham Dubai
 cover-img: 
-  - "/fair.github.io/img/logos.uobd.png" : FAIR 
+  - "/fair.github.io/img/logos/uobd.png" : FAIR 
 ---
 
 ---
