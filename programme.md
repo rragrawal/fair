@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 1st MIP-Frontiers Workshop
+title: Fostering AI Research (AI) programme
 description: April 30, 2020
 ---
 
