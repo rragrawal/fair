@@ -1,0 +1,17 @@
+{% for publication in publications %}
+	<p>
+		{{ publication.authors }} 
+		({{ publication.date | date: "%Y" }}). 
+		<strong>{{ publication.title }}.</strong> 
+		<em>{{ publication.in }}.</em> 
+		{% if publication.url %}
+			<a href="{{ publication.url }}"><i class="fas fa-external-link-alt"></i></a>
+		{% endif %}
+		{% if publication.video %}
+			<a href="{{ publication.video }}"><i class="fas fa-video"></i></a>
+		{% endif %}
+		{% if publication.github %}
+			<a href="https://github.com/{{ publication.github }}"><i class="fab fa-github"></i></a>
+		{% endif %}
+	</p>
+{% endfor %}

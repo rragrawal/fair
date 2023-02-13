@@ -1,0 +1,22 @@
+title: FAIR
+email: r.r.agrawal@bham.ac.uk
+description: Fostering AI Research
+author: Dr Ruchit Agrawal
+url: "https://rragrawal.github.io/"
+
+logo:
+  normal: "/img/logos/uobd.png"
+
+# Social Profiles
+twitter_username: birminghamdubai
+
+# Build settings
+markdown: kramdown
+paginate: 5
+paginate_path: "/posts/page:num/"
+background_color: "#205cac"
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
