@@ -5,7 +5,8 @@ author: Dr Ruchit Agrawal
 url: "https://rragrawal.github.io/fair.github.io/"
 
 logo:
-  normal: "/fair.github.io/img/logos/uobd2.jpg"
+  normal: "/fair.github.io/img/logos/uobd.png"
+  inverted: "/fair.github.io/img/logos/uobd2.jpg"
 
 # Social Profiles
 twitter_username: birminghamdubai
