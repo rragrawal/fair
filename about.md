@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-description: Fostering AI Research 
+title: About the workshop
+description: Fostering AI Research
 ---
 
 The **FAIR** workshop, an initiative of the CS department at the University of Birmingham Dubai, aims at instigating a series of discussions around Artificial Intelligence research pertinent to the real-world and the UAE landscape. 
