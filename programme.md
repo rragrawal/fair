@@ -17,17 +17,17 @@ Monday, March 13, 2023, 2-5 PM UAE time
 
 #### Research talks: 2pm - 3:40pm
 
-- _AI in Radiology: Research, challenges and the future_ <br> Dr Mohammad Yaqub, MBZUAI, Abu Dhabi <br> [Speaker info](https://mbzuai.ac.ae/study/faculty/mohammad-yaqub/) <br> <br> 
-- _Leveraging AI for safer patient care_ <br> Dr Emre Simsekler, Khalifa University, Abu Dhabi <br> [Speaker info](https://www.ku.ac.ae/college-people/mecit-can-emre-simsekler) <br> <br> 
-- _Explainable AI: Peeking inside the blackbox_ <br> Dr Jagath Samarabandu, Western University, Canada <br> [Speaker info](https://www.eng.uwo.ca/electrical/faculty/samarabandu_j/index.html) <br> <br>
-- _TBC_ <br> Dr Muhammad Shafique, New York University, Abu Dhabi <br> [Speaker info](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/muhammad-shafique.html) <br> <br>
+- _AI in Radiology: Research, challenges and the future_ <br> [Dr Mohammad Yaqub, MBZUAI, UAE](https://mbzuai.ac.ae/study/faculty/mohammad-yaqub/) <br> <br> 
+- _Leveraging AI for safer patient care_ <br> [Dr Emre Simsekler, Khalifa University, UAE](https://www.ku.ac.ae/college-people/mecit-can-emre-simsekler) <br> <br> 
+- _Explainable AI: Peeking inside the blackbox_ <br> [Prof Jagath Samarabandu, Western University, Canada](https://www.eng.uwo.ca/electrical/faculty/samarabandu_j/index.html) <br> <br>
+- _TBC_ <br> [Prof Muhammad Shafique, New York University, UAE](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/muhammad-shafique.html) <br> <br>
 
 #### Break: 3:40pm - 4pm <br> <br>
 
 
 #### Panel discussion: 4pm -  5pm <br>
 
-- _The reality of AI: Advancements and real world applications_ <br> [Dr Mohammad Yaqub](https://mbzuai.ac.ae/study/faculty/mohammad-yaqub/), MBZUAI, Abu Dhabi <br> [Mr Alexey Myakov](https://www.linkedin.com/in/itseez/), Intel Corporation <br> [Dr Jagath Samarabandu](https://www.eng.uwo.ca/electrical/faculty/samarabandu_j/index.html), Western University, Canada <br> [Mr Saqr Binghalib](https://www.linkedin.com/in/saqr-binghalib-724b1715/), Artificial Intelligence Office, UAE <br>
+- _The reality of AI: Advancements and real world applications_ <br> [Dr Mohammad Yaqub](https://mbzuai.ac.ae/study/faculty/mohammad-yaqub/), MBZUAI, Abu Dhabi <br> [Mr Alexey Myakov](https://www.linkedin.com/in/itseez/), Intel Corporation <br> [Prof Jagath Samarabandu](https://www.eng.uwo.ca/electrical/faculty/samarabandu_j/index.html), Western University, Canada <br> [Mr Saqr Binghalib](https://www.linkedin.com/in/saqr-binghalib-724b1715/), Artificial Intelligence Office, UAE <br>
 Moderator: [Dr Kashif Rajpoot](https://www.birmingham.ac.uk/staff/profiles/dubai/rajpoot-kashif.aspx), University of Birmingham Dubai <br>
 
 #### Consultation on Fostering Artificial Intelligence Research in UAE (CFAIR UAE 2023): 5pm - 6pm
