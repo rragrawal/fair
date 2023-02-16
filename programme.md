@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Fostering AI Research (AI) programme
-description: March 13, 2023 at UoBD
+title: Fostering AI Research (FAIR 2023) programme
+description: March 13, 2023 at UoBD | 2 PM - 5 PM
 ---
 
 ### General Information
@@ -17,10 +17,10 @@ Monday, March 13, 2023, 2-5 PM UAE time
 
 #### Research talks: 2pm - 3:40pm
 
-- _AI in Radiology: Research, challenges and the future_ <br> [Dr Mohammad Yaqub, MBZUAI, UAE](https://mbzuai.ac.ae/study/faculty/mohammad-yaqub/) <br> <br> 
+- _Explainable AI: Peering inside the blackbox_ <br> [Prof Jagath Samarabandu, Western University, Canada](https://www.eng.uwo.ca/electrical/faculty/samarabandu_j/index.html) <br> <br>
 - _Leveraging AI for safer patient care_ <br> [Dr Emre Simsekler, Khalifa University, UAE](https://www.ku.ac.ae/college-people/mecit-can-emre-simsekler) <br> <br> 
-- _Explainable AI: Peeking inside the blackbox_ <br> [Prof Jagath Samarabandu, Western University, Canada](https://www.eng.uwo.ca/electrical/faculty/samarabandu_j/index.html) <br> <br>
-- _TBC_ <br> [Prof Muhammad Shafique, New York University, UAE](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/muhammad-shafique.html) <br> <br>
+- _AI in Radiology: Research, challenges and the future_ <br> [Dr Mohammad Yaqub, MBZUAI, UAE](https://mbzuai.ac.ae/study/faculty/mohammad-yaqub/) <br> <br> 
+- _TinyML and EdgeAI Systems: Energy-Efficiency and Robustness_ <br> [Prof Muhammad Shafique, New York University, UAE](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/muhammad-shafique.html) <br> <br>
 
 #### Break: 3:40pm - 4pm <br> <br>
 
