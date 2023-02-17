@@ -15,4 +15,6 @@ To meet this need, and to **initiate a series of discussions around AI in UAE**,
 
 **FAIR** brings together experts from various eminent institutions in the UAE and internationally, and presents invited researc talks given by these experts on a myriad of topics relevant to real-world AI and its applications. These talks will be followed by a panel discussion on practical AI, followed by an invite-only session (CFAIR UAE 2023) over light refreshments and drinks on UAE-specific AI Research. 
 
-The workshop programme is available [here](/fair/programme).  We are happy to involve all our stakeholders and hope that this event will successfully foster AI research, both in the UAE, and thereby internationally. 
+The workshop programme is available [here](/fair/programme).  We are happy to involve all our stakeholders and hope that this event will successfully foster AI research, both in the UAE, and thereby internationally.
+
+In case of any queries about the event, please feel free to contact Dr Kashif Rajpoot at k.m.rajpoot@bham.ac.uk 

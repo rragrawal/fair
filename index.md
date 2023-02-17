@@ -12,3 +12,4 @@ The Computer Science department at the University of Birmingham Dubai is pleased
 
 You may register for the event [here](https://forms.office.com/e/ZLZAMZPrW4).
 The venue of the event is [University of Birmingham Dubai](https://g.co/kgs/Cua4qb).
+[Contact us](mailto:k.m.rajpoot@bham.ac.uk)
